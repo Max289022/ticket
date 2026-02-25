@@ -1,0 +1,5 @@
+{
+  "name": "Hublocal Ticket",
+  "description": "A comprehensive ticketing system with client portal, Kanban/List views, automatic assignment, and AI-powered ticket assistance.",
+  "requestFramePermissions": []
+}
